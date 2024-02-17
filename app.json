@@ -1,0 +1,6 @@
+{
+  "name": "RepackDemo",
+  "displayName": "RepackDemo",
+  "app1Chunks": ["src_modules_App1_App1_tsx"],
+  "app2Chunks": ["src_modules_App2_App2_tsx"]
+}
